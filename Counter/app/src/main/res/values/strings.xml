@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Crowd Counter</string>
+    <string name="greetingFormat">Hello, %1$s!</string>
+    <string name="greetButton">Greet</string>
+    <string name="nameEditText">Enter your name</string>
+    <string name="incrementButtonText">Increment</string>
+    <string name="counterTextViewFormat" translatable="false">%04d</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Primitive Calc</string>
+    <string name="multiply">Multiply</string>
+    <string name="subtract">Subtract</string>
+    <string name="add">Add</string>
+    <string name="first_operand">First Operand</string>
+    <string name="second_operand">Second Operand</string>
+    <string name="divide">Divide</string>
+    <string name="result">Result</string>
+    <string name="calculate">Calculate</string>
+</resources>
